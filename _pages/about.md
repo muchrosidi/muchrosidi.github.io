@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 
 Rosidi is pursuing a [Ph.D. at the Martin School of Public Policy and Administration](https://martin.uky.edu/academic-programs/phd), [University of Kentucky](https://www.uky.edu/). His research utilizes causal inference and other quantitative methodologies to evaluate the effects of government policies, with specific interests in public finance, public financial management, and the economics of education. He aims to generate evidence-based insights that inform policy decisions.
 
-Before embarking on his doctoral journey, he gained valuable experience through various professional roles within the Indonesia Ministry of Finance, where he developed a deep understanding of the inner workings of government policies in developing countries. Additionally, he served as a guest lecturer at his alma mater.
+Before embarking on his doctoral journey, he gained valuable experience through various professional roles within the Indonesia Ministry of Finance, where he developed a deep understanding of the inner workings of government policies in the developing country. Additionally, he served as a guest lecturer at his alma mater.
 
 Rosidi holds a [Master of Arts (M.A.) degree in Applied Economics](https://lsa.umich.edu/econ/mae.html) from [University of Michigan](https://umich.edu/) and obtained a Bachelor of Applied Science (B.App.Sc.) in Accounting from Sekolah Tinggi Akuntansi Negara in Jakarta.
 
