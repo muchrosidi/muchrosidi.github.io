@@ -16,8 +16,7 @@ profile:
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+selected_papers: false # includes a list of papers marked as "selected={true}" social: true  # includes social icons at the bottom of the page
 ---
 
 I am currently pursuing a [Ph.D. at the Martin School of Public Policy and Administration](https://martin.uky.edu/academic-programs/phd), [University of Kentucky](https://www.uky.edu/). My research utilizes causal inference and other quantitative methodologies to evaluate the effects of government policies, with specific interests in public finance, public financial management, and the economics of education. I aim to generate evidence-based insights that inform policy decisions.
