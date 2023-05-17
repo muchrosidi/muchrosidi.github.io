@@ -26,3 +26,5 @@ Before embarking on my doctoral journey, I gained valuable experience through va
 
 I hold a [Master of Arts (M.A.) degree in Applied Economics](https://lsa.umich.edu/econ/mae.html) from [University of Michigan](https://umich.edu/) and obtained a Bachelor of Applied Science (B.App.Sc.) in Accounting from Sekolah Tinggi Akuntansi Negara* in Jakarta.
 
+If you share any of my interests, please don’t hesitate to [reach out](mailto: muchrosidi@gmail.com). You can also find me very occasionally on [Twitter](https://twitter.com/muchrosidi) and [Linkedin](https://www.linkedin.com/in/muchrosidi/)!
+
