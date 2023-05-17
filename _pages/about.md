@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://martin.uky.edu/people/much-rosidi'>Affiliation profile</a> # Address. Contacts. Moto. Etc.
+subtitle: <a href='https://martin.uky.edu/people/much-rosidi'>Profile on affiliations</a> # Address. Contacts. Moto. Etc.
 
 profile:
   align: right
@@ -22,7 +22,7 @@ social: true  # includes social icons at the bottom of the page
 
 I am currently pursuing a [Ph.D. at the Martin School of Public Policy and Administration](https://martin.uky.edu/academic-programs/phd), [University of Kentucky](https://www.uky.edu/). My research utilizes causal inference and other quantitative methodologies to evaluate the effects of government policies, with specific interests in public finance, public financial management, and the economics of education. I aim to generate evidence-based insights that inform policy decisions.
 
-Before embarking on my doctoral journey, I gained valuable experience through various professional roles within the Indonesia Ministry of Finance, where I developed a deep understanding of the inner workings of government policies in the developing country. Additionally, I served as a guest lecturer at my undergraduate alma mater.
+Before embarking on my doctoral journey, I gained valuable experience through various professional roles within [the Indonesia Ministry of Finance](https://web.kemenkeu.go.id/en), where I developed a deep understanding of the inner workings of government policies in the developing country. Additionally, I served as a guest lecturer at my undergraduate alma mater.
 
 I hold a [Master of Arts (M.A.) degree in Applied Economics](https://lsa.umich.edu/econ/mae.html) from [University of Michigan](https://umich.edu/) and obtained a Bachelor of Applied Science (B.App.Sc.) in Accounting from Sekolah Tinggi Akuntansi Negara<sup>1</sup> in Jakarta.
 
