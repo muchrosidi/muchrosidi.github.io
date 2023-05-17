@@ -23,5 +23,5 @@ I am currently pursuing a [Ph.D. at the Martin School of Public Policy and Admin
 
 Before embarking on my doctoral journey, I gained valuable experience through various professional roles within the Indonesia Ministry of Finance, where I developed a deep understanding of the inner workings of government policies in the developing country. Additionally, I served as a guest lecturer at my undergraduate alma mater.
 
-I hold a [Master of Arts (M.A.) degree in Applied Economics](https://lsa.umich.edu/econ/mae.html) from [University of Michigan](https://umich.edu/) and obtained a Bachelor of Applied Science (B.App.Sc.) in Accounting from Sekolah Tinggi Akuntansi Negara in Jakarta.
+I hold a [Master of Arts (M.A.) degree in Applied Economics](https://lsa.umich.edu/econ/mae.html) from [University of Michigan](https://umich.edu/) and obtained a Bachelor of Applied Science (B.App.Sc.) in Accounting from Sekolah Tinggi Akuntansi Negara* in Jakarta.
 
