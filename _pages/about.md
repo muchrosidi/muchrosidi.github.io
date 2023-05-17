@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://martin.uky.edu/people/much-rosidi'>Profile on affiliations</a> # Address. Contacts. Moto. Etc.
+subtitle: <a href='https://martin.uky.edu/people/much-rosidi'>Profile on School</a> # Address. Contacts. Moto. Etc.
 
 profile:
   align: right
