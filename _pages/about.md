@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: muchrosidi@gmail.com, much.rosidi@uky.edu # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
