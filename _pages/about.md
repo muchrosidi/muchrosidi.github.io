@@ -19,9 +19,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Rosidi is pursuing a [Ph.D. at the Martin School of Public Policy and Administration](https://martin.uky.edu/academic-programs/phd), [University of Kentucky](https://www.uky.edu/). His research utilizes causal inference and other quantitative methodologies to evaluate the effects of government policies, with specific interests in public finance, public financial management, and the economics of education. He aims to generate evidence-based insights that inform policy decisions.
+I am currently pursuing a [Ph.D. at the Martin School of Public Policy and Administration](https://martin.uky.edu/academic-programs/phd), [University of Kentucky](https://www.uky.edu/). My research utilizes causal inference and other quantitative methodologies to evaluate the effects of government policies, with specific interests in public finance, public financial management, and the economics of education. I aim to generate evidence-based insights that inform policy decisions.
 
-Before embarking on his doctoral journey, he gained valuable experience through various professional roles within the Indonesia Ministry of Finance, where he developed a deep understanding of the inner workings of government policies in the developing country. Additionally, he served as a guest lecturer at his alma mater.
+Before embarking on my doctoral journey, I gained valuable experience through various professional roles within the Indonesia Ministry of Finance, where I developed a deep understanding of the inner workings of government policies in the developing country. Additionally, I served as a guest lecturer at my undergraduate alma mater.
 
-Rosidi holds a [Master of Arts (M.A.) degree in Applied Economics](https://lsa.umich.edu/econ/mae.html) from [University of Michigan](https://umich.edu/) and obtained a Bachelor of Applied Science (B.App.Sc.) in Accounting from Sekolah Tinggi Akuntansi Negara in Jakarta.
+I hold a [Master of Arts (M.A.) degree in Applied Economics](https://lsa.umich.edu/econ/mae.html) from [University of Michigan](https://umich.edu/) and obtained a Bachelor of Applied Science (B.App.Sc.) in Accounting from Sekolah Tinggi Akuntansi Negara in Jakarta.
 
