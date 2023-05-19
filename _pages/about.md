@@ -29,7 +29,8 @@ I hold a [Master of Arts (M.A.) degree in Applied Economics](https://lsa.umich.e
 If you share any of my interests, please don’t hesitate to <a href='mailto:muchrosidi@gmail.com'>reach out</a>! You can also find me very occasionally on [Twitter](https://twitter.com/muchrosidi) and [Linkedin](https://www.linkedin.com/in/muchrosidi/).
 
  
-Here is some text with a tooltip. When you move your cursor over the word <span class="tooltip">{% include tooltip.html content="This is the explanation of the word." %}</span>, a pop-up comment will appear.
+I am <span class="tooltip">currently pursuing<span class="tooltip-text">I am currently enrolled in a Ph.D. program at the University of Kentucky, focusing on XYZ research.</span></span> a Ph.D. at the [University of Kentucky](https://www.uky.edu/). My research utilizes causal inference.
+
 
 
 
