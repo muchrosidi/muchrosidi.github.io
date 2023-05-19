@@ -1057,7 +1057,6 @@ d-appendix a:hover, d-appendix a.footnote-backlink:hover {
 .tooltip {
   position: relative;
   display: inline-block;
-  cursor: help;
 }
 
 .tooltip::after {
@@ -1070,7 +1069,7 @@ d-appendix a:hover, d-appendix a.footnote-backlink:hover {
   padding: 5px;
   position: absolute;
   z-index: 1;
-  bottom: 125%;
+  bottom: 100%;
   left: 50%;
   transform: translateX(-50%);
   opacity: 0;
