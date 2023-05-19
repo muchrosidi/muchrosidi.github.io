@@ -29,5 +29,6 @@ I hold a [Master of Arts (M.A.) degree in Applied Economics](https://lsa.umich.e
 If you share any of my interests, please don’t hesitate to <a href='mailto:muchrosidi@gmail.com'>reach out</a>! You can also find me very occasionally on [Twitter](https://twitter.com/muchrosidi) and [Linkedin](https://www.linkedin.com/in/muchrosidi/).
 
  
-I am <span class="tooltip">currently pursuing<span class="tooltip-text">I am currently enrolled in a Ph.D. program at the University of Kentucky, focusing on XYZ research.</span></span> a Ph.D. at the [University of Kentucky](https://www.uky.edu/). My research utilizes causal inference.
+I am <span class="tooltip">currently pursuing</span> a Ph.D. at the [University of Kentucky](https://www.uky.edu/). My research utilizes causal inference.
+
 
