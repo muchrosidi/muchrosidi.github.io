@@ -16,12 +16,7 @@ $max-content-width: {{ site.max_width }};
 
 /* Dari sini kebawah ini tambahan percobaan untuk menampilkan footnote */
 .footnote {
-  font-size: 80%;
+  font-size: 60%;
   color: #777;
 }
 
-.footnote-ref {
-  font-size: 100%;
-}
-
-@import "custom.css";
