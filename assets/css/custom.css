@@ -1,0 +1,3 @@
+.footnotes ol li::before {
+  font-size: 100%;
+}
