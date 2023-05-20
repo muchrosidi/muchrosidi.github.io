@@ -22,5 +22,6 @@ $max-content-width: {{ site.max_width }};
 
 .small-note {
   font-size: 60%;
+   line-height: 1.2; /* Adjust the value as needed */
 }
 
