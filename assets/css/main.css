@@ -1053,16 +1053,10 @@ d-appendix a:hover, d-appendix a.footnote-backlink:hover {
     grid-column: none;
   }
 }
-/* Dari sini kebawah ini tambahan percobaan untuk menampilkan footnote */
-/*.footnote {
-  font-size: 60%;
-  color: #777;
-} */
+/* Dari sini kebawah ini tambahan percobaan untuk menampilkan note */
 .small-note {
   font-size: 60%;
   line-height: 0.8;
-  margin-top: 0.5em; /* Adjust the value as needed */
-  margin-bottom: 0.5em; /* Adjust the value as needed */
 }
 
 /*# sourceMappingURL=main.css.map */
