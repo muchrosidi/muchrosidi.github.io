@@ -31,7 +31,7 @@ If you share any of my interests, please don’t hesitate to <a href='mailto:muc
  
 
 
-[^*]: <span class="footnote">Footnote content about currently pursuing.</span>
+[^*]: <span class="footnote">Sekolah Tinggi Akuntansi Negara was a scholarship-based college under Indonesia Ministry of Finance, a highly competitive college that exclusively produced employees for the Ministry of Finance and state auditors in Indonesia. Its name has changed to <a href="https://pknstan.ac.id/">Politeknik Keuangan Negara STAN</a> since 2015.</span>
 
 
 
