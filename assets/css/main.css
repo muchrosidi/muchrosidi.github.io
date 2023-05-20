@@ -5,7 +5,6 @@
 /*******************************************************************************
  * Themes
  ******************************************************************************/
-@import "custom.css";
 :root {
   --global-bg-color: #ffffff;
   --global-code-bg-color: rgba(181, 9, 172, 0.05);
@@ -1056,12 +1055,8 @@ d-appendix a:hover, d-appendix a.footnote-backlink:hover {
 }
 /* Dari sini kebawah ini tambahan percobaan untuk menampilkan footnote */
 .footnote {
-  font-size: 80%;
+  font-size: 60%;
   color: #777;
-}
-
-.footnote-ref {
-  font-size: 100%;
 }
 
 /*# sourceMappingURL=main.css.map */
