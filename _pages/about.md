@@ -31,7 +31,8 @@ If you share any of my interests, please don’t hesitate to <a href='mailto:muc
  
 
 
-[^1]: <span class="footnote">Sekolah Tinggi Akuntansi Negara was a scholarship-based college under Indonesia Ministry of Finance, a highly competitive college that exclusively produced employees for the Ministry of Finance and state auditors for state oversight institutions in Indonesia. Its name has changed to <a href="https://pknstan.ac.id/">Politeknik Keuangan Negara STAN</a> since 2015.</span>
+<span class='small-note'><sup>1</sup>Sekolah Tinggi Akuntansi Negara was a scholarship-based college under Indonesia Ministry of Finance, a highly competitive college that exclusively produced employees for the Ministry of Finance and state auditors in Indonesia. Its name has changed to <a href="https://pknstan.ac.id/">Politeknik Keuangan Negara STAN</a> since 2015.</span>
+
 
 
 
