@@ -1060,7 +1060,7 @@ d-appendix a:hover, d-appendix a.footnote-backlink:hover {
 } */
 .small-note {
   font-size: 60%;
-  line-height: 1.2; /* Adjust the value as needed */
+  line-height: 1.01; /* Adjust the value as needed */
 }
 
 /*# sourceMappingURL=main.css.map */
