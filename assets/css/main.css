@@ -1061,7 +1061,7 @@ d-appendix a:hover, d-appendix a.footnote-backlink:hover {
 .small-note {
   font-size: 60%;
   line-height: 1.2;
-  margin-top: 0.5em; /* Adjust the value as needed */
+  margin-top: 0.9em; /* Adjust the value as needed */
   margin-bottom: 0.5em; /* Adjust the value as needed */
 }
 
