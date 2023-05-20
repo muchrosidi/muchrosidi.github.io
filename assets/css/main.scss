@@ -3,6 +3,11 @@
 ---
 @charset "utf-8";
 
+/* Dari sini kebawah ini tambahan percobaan untuk menampilkan note */
+.small-note {
+  font-size: 60%;
+  line-height: 0.2cm;  
+}
 // Dimensions
 $max-content-width: {{ site.max_width }};
 
@@ -14,9 +19,5 @@ $max-content-width: {{ site.max_width }};
   "distill"
 ;
 
-/* Dari sini kebawah ini tambahan percobaan untuk menampilkan note */
-.small-note {
-  font-size: 60%;
-  line-height: 0.2cm;  
-}
+
 
