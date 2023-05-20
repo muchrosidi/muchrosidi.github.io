@@ -20,7 +20,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am currently pursuing a [Ph.D. at the Martin School of Public Policy and Administration](https://martin.uky.edu/academic-programs/phd), [University of Kentucky](https://www.uky.edu/). My research utilizes causal inference and other quantitative methodologies to evaluate the effects of government policies, with specific interests in public finance, public financial management, and the economics of education. I aim to generate evidence-based insights that inform policy decisions.
+I am currently pursuing a [Ph.D. at the Martin School of Public Policy and Administration](https://martin.uky.edu/academic-programs/phd), [University of Kentucky](https://www.uky.edu/). My research focuses on evaluating the effects of government policies, with specific interests in the areas of public finance, public financial management, and education finance and policy. I utilize causal inference and other quantitative methodologies to generate evidence-based insights with the aim of informing and shaping policy decisions.
 
 Before embarking on my doctoral journey, I gained valuable experience through various professional roles within the [Indonesia Ministry of Finance](https://web.kemenkeu.go.id/en), where I developed a deep understanding of the inner workings of government policies. I have gained a strong understanding in formulating laws and regulations, particularly in grasping how policies related to fiscal policy and public financial management are translated into regulations within the Indonesian context. Additionally, I served as a guest lecturer at my undergraduate alma mater.
 
