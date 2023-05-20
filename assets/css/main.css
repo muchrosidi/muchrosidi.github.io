@@ -1,9 +1,3 @@
-/* Dari sini kebawah ini tambahan percobaan untuk menampilkan note */
-.small-note {
-  font-size: 60%;
-  line-height: 0.2cm;
-}
-
 /*******************************************************************************
  * Variables used throughout the theme.
  * To adjust anything, simply edit the variables below and rebuild the theme.
@@ -1058,6 +1052,11 @@ d-appendix a:hover, d-appendix a.footnote-backlink:hover {
   d-article d-contents nav {
     grid-column: none;
   }
+}
+/* Dari sini kebawah ini tambahan percobaan untuk menampilkan note */
+.small-note {
+  font-size: 60%;
+  line-height: 0.2cm;
 }
 
 /*# sourceMappingURL=main.css.map */
