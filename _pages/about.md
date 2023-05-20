@@ -33,7 +33,7 @@ If you share any of my interests, please don’t hesitate to <a href='mailto:muc
 
 
 
-<span class='small-note'><sup>1</sup>Sekolah Tinggi Akuntansi Negara was a scholarship-based college under the Indonesia Ministry of Finance. It was a highly competitive college where its graduates used to work directly in the Ministry of Finance and external and internal government auditor institutions in Indonesia. Since 2015, its name has changed to <a href="https://pknstan.ac.id/">Politeknik Keuangan Negara STAN</a>. Its graduates now serve in a broader range of institutions, from ministerial cabinets to subnational governments, while mostly still in the Ministry of Finance.</span>
+
 
 
 
