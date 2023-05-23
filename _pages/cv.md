@@ -11,8 +11,11 @@ cv_pdf: CV_muchrosidi_ok.pdf
 
 
 <!-- This will open the pdf directly, but delete cv.html in _layouts first - Rosidi -->
-<!--   -->
+<!--   
 <embed src="{{ '/assets/pdf/CV_muchrosidi_ok.pdf' }}" width="100%" height="800px" type="application/pdf">
+-->
+<embed src="{{ '/assets/pdf/CV_muchrosidi_ok.pdf' }}" width="100%" height="800px" type="application/pdf" target="_blank">
+
 
 
 
