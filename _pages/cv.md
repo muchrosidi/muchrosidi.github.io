@@ -9,12 +9,12 @@ nav_order: 2
 cv_pdf: CV_muchrosidi_ok.pdf
 ---
 -->
-
+---
 permalink: /cv/
 title: cv
 nav: true
 nav_order: 2
-
+---
 
 
 <!-- This will open the pdf directly, but delete cv.html in _layouts first - Rosidi -->
