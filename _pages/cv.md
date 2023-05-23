@@ -1,5 +1,5 @@
 ---
-<!-- layout: cv -->
+layout: cv 
 permalink: /cv/
 title: cv
 nav: true
@@ -14,9 +14,7 @@ cv_pdf: CV_muchrosidi_ok.pdf
 <!--   
 <embed src="{{ '/assets/pdf/CV_muchrosidi_ok.pdf' }}" width="100%" height="800px" type="application/pdf">
 -->
-<a href="{{ '/assets/pdf/CV_muchrosidi_ok.pdf' }}" target="_blank">
-  Open PDF
-</a>
+
 
 
 
