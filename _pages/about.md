@@ -24,7 +24,7 @@ I am currently pursuing a [Ph.D. at the Martin School of Public Policy and Admin
 
 Before embarking on my doctoral journey, I gained valuable experience through various professional roles within the [Indonesia Ministry of Finance](https://web.kemenkeu.go.id/en), where I developed a deep understanding of the inner workings of government policies. I have gained a strong understanding in formulating laws and regulations, particularly in grasping how policies related to fiscal policy and public financial management are translated into regulations within the Indonesian context. Additionally, I served as a guest lecturer at my undergraduate alma mater.
 
-I hold a [Master of Arts (M.A.) degree in Applied Economics](https://lsa.umich.edu/econ/mae.html) from [University of Michigan](https://umich.edu/) and obtained a Bachelor of Applied Science (B.App.Sc.) in Accounting from Sekolah Tinggi Akuntansi Negara<sup>1</sup>.
+I hold a [Master of Arts (M.A.) degree in Applied Economics](https://lsa.umich.edu/econ/mae.html) from [University of Michigan](https://umich.edu/) and obtained a Bachelor of Applied Science (B.App.Sc.) in Accounting from Sekolah Tinggi Akuntansi Negara.<sup>1</sup>
 
 If you share any of my interests, please don’t hesitate to <a href='mailto:muchrosidi@gmail.com'>reach out</a>! You can also find me very occasionally on [Twitter](https://twitter.com/muchrosidi) and [Linkedin](https://www.linkedin.com/in/muchrosidi/).
 
