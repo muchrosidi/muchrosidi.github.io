@@ -105,9 +105,8 @@ facebook_id: # your facebook id
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: # your discord id (18-digit unique numerical identifier)
 
-contact_note: > 
-  <span class='small-note'><sup>1</sup>Sekolah Tinggi Akuntansi Negara was a scholarship-based college under the Indonesia Ministry of Finance. It was a highly competitive college where its graduates used to work directly in the Ministry of Finance and external and internal government auditor institutions in Indonesia. Since 2015, its name has changed to <a href="https://pknstan.ac.id/">Politeknik Keuangan Negara STAN</a>. Its graduates now serve in a broader range of institutions, from ministerial cabinets to subnational governments, while mostly still in the Ministry of Finance.</span>
-
+contact_note: > # <span class='small-note'><sup>1</sup>Sekolah Tinggi Akuntansi Negara was a scholarship-based college under the Indonesia Ministry of Finance. It was a highly competitive college where its graduates used to work directly in the Ministry of Finance and external and internal government auditor institutions in Indonesia. Since 2015, its name has changed to <a href="https://pknstan.ac.id/">Politeknik Keuangan Negara STAN</a>. Its graduates now serve in a broader range of institutions, from ministerial cabinets to subnational governments, while mostly still in the Ministry of Finance.</span>
+  <span class='small-note'><sup>1</sup> Now <a href="https://pknstan.ac.id/">Politeknik Keuangan Negara STAN</a> is a scholarship-based college under the Indonesia Ministry of Finance.</span>  
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
