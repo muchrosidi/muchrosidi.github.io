@@ -24,6 +24,8 @@ I am currently pursuing a [Ph.D. at the Martin School of Public Policy and Admin
 
 Currently, I am conducting research on the impact of repeating vehicle tax amnesties on subnational revenue. In addition, I am exploring the relationship between corruption and local expenditure, focusing on identifying underlying dynamics and patterns. Furthermore, I am studying property tax competition within the context of the decentralization process. Through these research endeavors, I aim to contribute to a comprehensive understanding of local public finance dynamics in Indonesia.
 
+Recently, I presented my research at Association for Budgeting and Financial Management (ABFM) 2023 Conference and National Tax Association (NTA) 116th Annual Conference on Taxation 2023, both hosted in Denver, Colorado.
+
 Before embarking on my doctoral journey, I gained valuable experience through various professional roles within the [Indonesia Ministry of Finance](https://web.kemenkeu.go.id/en), where I developed a deep understanding of the inner workings of government policies. I have gained a strong understanding in formulating laws and regulations, particularly in grasping how policies related to fiscal policy and public financial management are translated into regulations within the Indonesian context. Additionally, I served as a guest lecturer at my undergraduate alma mater.
 
 I hold a [Master of Arts (M.A.) degree in Applied Economics](https://lsa.umich.edu/econ/mae.html) from [University of Michigan](https://umich.edu/) and obtained a Bachelor of Applied Science (B.App.Sc.) in Accounting from Sekolah Tinggi Akuntansi Negara.<sup>1</sup>
