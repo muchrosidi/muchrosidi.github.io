@@ -21,14 +21,14 @@ Here is the link to access the [lecture slides]('/assets/pdf/Intro_diddifferentt
 
 
 ## 2. Government Revenue Lab (Indonesian *Praktikum Pelaksanaan Pendapatan Negara*)
-[Politeknik Keuangan Negara STAN](https://pknstan.ac.id/), Semester 4 2018/2019
+[Politeknik Keuangan Negara STAN](https://pknstan.ac.id/), Spring 2019 (Indonesian *semester genap*) 
 - Major:  State Treasury Specialization
 - Number of student: 68
 - Student evaluation ([link to the file]('/assets/pdf/evaluasi_rosidi')): 9.09/10
 - Received the highest student evaluation among four instructors teaching the course
 
 ## 3. Introduction to Economics (Indonesian *Pengantar Ilmu Ekonomi*)
-[Politeknik Keuangan Negara STAN](https://pknstan.ac.id/),  Semester 1 2017/2018
+[Politeknik Keuangan Negara STAN](https://pknstan.ac.id/),  Fall 2017 (Indonesian *semester ganjil*)
 - Major: Custom and Excise Specialization
 - Number of student: 75
 - Student evaluation: 9.01/10
