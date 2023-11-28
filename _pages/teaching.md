@@ -2,21 +2,28 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Welcome to my teaching portfolio! This page showcases educational content from courses I have taught in the past and a recent guest lecture.
 nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
 
-Organize your courses by years, topics, or universities, however you like!
 
--------edit new line
-## Course 1: [Course Name 1](link-to-course-1)
-Description of the course 1 goes here. You can add details, syllabus, materials, etc.
+## Course 1: [Introduction to Difference-in-Differences with Variation in Treatment Timing](link-to-course-1)
+In Fall 2023, I was invited as a guest lecturer for a PhD-level research methods course at the Department of Accounting, Faculty of Economics and Business, Universitas Indonesia where I conducted a session on "Introduction to Difference-in-Differences with Variation in Treatment Timing." This lecture was also attended by several faculty members.
 
-## Course 2: [Course Name 2](link-to-course-2)
-Description of the course 2 goes here. Add relevant information, syllabus, materials, etc.
+The course material encompassed four key segments: canonical DID, DID with variations in treatment timing, recent developments in DID considering treatment timing variations, and a practical STATA simulation. During the STATA simulation, participants were guided through the estimation process utilizing three distinct estimators: two-way fixed effects, Callaway & Santanna (2021), and de Chaisemartin & D’Haultfoeuille (2022). This session aimed to replicate a work presented by de Chaisemartin & D’Haultfoeuille (2023) in their paper titled Two-way fixed effects and differences-in-differences with heterogeneous treatment effects: a survey.
 
-## Course 3: [Course Name 3](link-to-course-3)
-Description of the course 3 goes here. Include course details, syllabus, materials, etc.
+To access the lecture slides, accompanying data, and the do file used during the session, plese [visit this link](https://your-github-link-to-the-files).
+
+
+
+## Course 2: [Government Revenue Lab (Indonesian Praktikum Pelaksanaan Pendapatan Negara)](link-to-course-2)
+Politeknik Keuangan Negara STAN, State Treasury Specialization (68 students), Semester 4 2018/2019
+- Student evaluation (9.09/10)
+- Received the highest student evaluation among four instructors teaching the course
+
+## Course 3: [Introduction to Economics (Indonesian Pengantar Ilmu Ekonomi )](link-to-course-3)
+Politeknik Keuangan Negara
+STAN, Custom and Excise Specialization (75 students), Semester 1 2017/2018
+- Student evaluation (9.01/10)
