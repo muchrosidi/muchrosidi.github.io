@@ -20,7 +20,7 @@ Here is the link to access the [lecture slides](/assets/pdf/Intro_diddifferentti
 
 
 
-## 2. Government Revenue Lab (*Praktikum Pelaksanaan Pendapatan Negara*)
+## 2. Government Revenue (*Praktikum Pelaksanaan Pendapatan Negara*)
 [Politeknik Keuangan Negara STAN](https://pknstan.ac.id/), Spring (*Semester Genap*) 2019  
 - Major:  State Treasury Specialization
 - Number of student: 68
