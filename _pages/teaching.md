@@ -16,7 +16,7 @@ In Fall 2023, I was invited as a guest lecturer for a PhD-level research methods
 
 The course material encompassed four key segments: canonical DID, DID with variations in treatment timing, recent developments in DID considering treatment timing variations, and a practical STATA simulation. During the STATA simulation, participants were guided through the estimation process utilizing three distinct estimators: two-way fixed effects, [Callaway and Sant’Anna (2021)](https://www.sciencedirect.com/science/article/abs/pii/S0304407620303948), and [de Chaisemartin & D’Haultfoeuille (2022)](https://www.nber.org/papers/w29873). The simulation session aimed to replicate a DID estimators comparison presented in [de Chaisemartin & D’Haultfoeuille (2023)](https://academic.oup.com/ectj/article-abstract/26/3/C1/6604378).
 
-Here is the link to access the [lecture slides]('/assets/pdf/Intro_diddifferenttiming_rosidi_20231126_edit.pdf'), accompanying [data](Divorce-Wolfers-AER_ui.dta), and the [do file](replication_ui_20231126.do) used during the session.
+Here is the link to access the [lecture slides]('/assets/pdf/Intro_diddifferenttiming_rosidi_20231126_edit.pdf'), accompanying [data]('/assets/pdf/Divorce-Wolfers-AER_ui.dta'), and the [do file]('/assets/pdf/replication_ui_20231126.do') used during the session.
 
 
 
@@ -24,7 +24,7 @@ Here is the link to access the [lecture slides]('/assets/pdf/Intro_diddifferentt
 [Politeknik Keuangan Negara STAN](https://pknstan.ac.id/), Semester 4 2018/2019
 - Major:  State Treasury Specialization
 - Number of student: 68
-- Student evaluation ([link to the file]()): 9.09/10
+- Student evaluation ([link to the file]('/assets/pdf/evaluasi_rosidi')): 9.09/10
 - Received the highest student evaluation among four instructors teaching the course
 
 ## 3. Introduction to Economics (Indonesian *Pengantar Ilmu Ekonomi*)
