@@ -9,7 +9,7 @@ nav_order: 5
 
 
 
-## 1. [Introduction to Difference-in-Differences with Variation in Treatment Timing](link-to-course-1)
+## 1. **Introduction to Difference-in-Differences with Variation in Treatment Timing**
 [Universitas Indonesia](https://feb.ui.ac.id/en/department-of-accounting/), Fall 2023
 
 In Fall 2023, I was invited as a guest lecturer for a PhD-level research methods course at the Department of Accounting, Faculty of Economics and Business, Universitas Indonesia where I conducted a session on "Introduction to Difference-in-Differences with Variation in Treatment Timing." This lecture was also attended by several faculty members.
@@ -20,14 +20,14 @@ To access the lecture slides, accompanying data, and the do file used during the
 
 
 
-## 2. [Government Revenue Lab (Indonesian *Praktikum Pelaksanaan Pendapatan Negara*)](link-to-course-2)
+## 2. **Government Revenue Lab (Indonesian *Praktikum Pelaksanaan Pendapatan Negara*)**
 [Politeknik Keuangan Negara STAN](https://pknstan.ac.id/), Semester 4 2018/2019
 - Major:  State Treasury Specialization
 - Number of student: 68
-- Student evaluation: 9.09/10
+- Student evaluation (link to the file): 9.09/10
 - Received the highest student evaluation among four instructors teaching the course
 
-## 3. [Introduction to Economics (Indonesian *Pengantar Ilmu Ekonomi*)](link-to-course-3)
+## 3. Introduction to Economics (Indonesian *Pengantar Ilmu Ekonomi*)
 [Politeknik Keuangan Negara STAN](https://pknstan.ac.id/),  Semester 1 2017/2018
 - Major: Custom and Excise Specialization
 - Number of student: 75
