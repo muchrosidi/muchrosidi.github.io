@@ -8,8 +8,8 @@ nav_order: 3
 ---
 
 
-## Working Papers:
-### Forgiving as a Revenue Booster? Evidence from Repeating Vehicle Tax Amnesties in Indonesia
+### Working Papers:
+#### Forgiving as a Revenue Booster? Evidence from Repeating Vehicle Tax Amnesties in Indonesia
 
 Abstract:  I examine vehicle tax amnesty programs in Indonesia that have been very popular in dealing
 with high delinquency rates. From 2008 to 2020, provincial amnesties occurred every 2.5 years on
