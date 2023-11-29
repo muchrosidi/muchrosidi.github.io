@@ -11,7 +11,7 @@ nav_order: 4
 
 #### Introduction to Difference-in-Differences with Variation in Treatment Timing
 
-[Universitas Indonesia](https://feb.ui.ac.id/en/department-of-accounting/), Fall 2023
+[Universitas Indonesia](https://accounting.feb.ui.ac.id/), Fall 2023
 
 In Fall 2023, I was invited as a guest lecturer for a PhD-level research methods course at the Department of Accounting, Faculty of Economics and Business, Universitas Indonesia where I conducted a session on Introduction to Difference-in-Differences with Variation in Treatment Timing. This lecture was also attended by faculty members.
 
