@@ -27,7 +27,7 @@ Here is the link to access the [lecture slides](/assets/pdf/Intro_diddifferentti
 
 - Major:  State Treasury Specialization
 - Number of student: 68
-- Student evaluation ([link to the file](/assets/pdf/evaluasi_rosidi.pdf)): 9.09/10
+- Student evaluation ([link to the file](/assets/pdf/evaluasi_rosidi.pdf) including comments from students): 9.09/10
 - Received the highest student evaluation among four instructors teaching the course
 
 <br>
