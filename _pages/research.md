@@ -28,7 +28,7 @@ causes of delinquency, the direct election system of governors may still encoura
 populist policies to win favor and votes. If that is the case, the widespread adoption of vehicle tax
 amnesty will likely remain a common practice.
 
-**Presentation**: Association for Budgeting and Financial Management (ABFM) Fall 2023 Conference and National Tax Association (NTA) 116th Annual Conference on Taxation 2023, both in Denver Colorado
+**Presentation**: Association for Budgeting and Financial Management (ABFM) Fall 2023 Conference and National Tax Association (NTA) 116th Annual Conference on Taxation 2023, both in Denver Colorado.
 
 
 #### **Works in Progress**:
