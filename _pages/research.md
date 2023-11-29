@@ -29,6 +29,6 @@ amnesty will likely remain a common practice.
 
 
 # Works in Progress
-### Corruption and the Composition of Government Expenditure: Evidence from An Anticorruption Measure in Indonesia
+### Corruption and the Composition of Government Expenditure: Evidence from An Anticorruption Measure in Indonesia
 
 ### Fiscal Interactions in the Short and Long Run: Evidence from Indonesia’s Property Tax Decentralization
