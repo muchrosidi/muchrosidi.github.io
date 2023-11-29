@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: Teaching
+title: teaching
 description: Welcome to my teaching portfolio! This page showcases educational content from courses I have taught.
 nav: true
 nav_order: 5
