@@ -8,8 +8,8 @@ nav_order: 3
 ---
 
 
-### Working Papers:
-# Forgiving as a Revenue Booster? Evidence from Repeating Vehicle Tax Amnesties in Indonesia
+# Working Papers:
+### Forgiving as a Revenue Booster? Evidence from Repeating Vehicle Tax Amnesties in Indonesia
 
 Abstract:  I examine vehicle tax amnesty programs in Indonesia that have been very popular in dealing
 with high delinquency rates. From 2008 to 2020, provincial amnesties occurred every 2.5 years on
@@ -28,7 +28,7 @@ populist policies to win favor and votes. If that is the case, the widespread ad
 amnesty will likely remain a common practice.
 
 
-### Works in Progress
-# Corruption and the Composition of Government Expenditure: Evidence from An Anticorruption Measure in Indonesia
+# Works in Progress
+### Corruption and the Composition of Government Expenditure: Evidence from An Anticorruption Measure in Indonesia
 
-# Fiscal Interactions in the Short and Long Run: Evidence from Indonesia’s Property Tax Decentralization
+### Fiscal Interactions in the Short and Long Run: Evidence from Indonesia’s Property Tax Decentralization
