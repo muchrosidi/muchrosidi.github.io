@@ -12,7 +12,7 @@ nav_order: 3
 
 #### Forgiving as a Revenue Booster? Evidence from Repeating Vehicle Tax Amnesties in Indonesia
 
-**Abstract**:  I examine vehicle tax amnesty programs in Indonesia that have been very popular in dealing
+**Abstract**: I examine vehicle tax amnesty programs in Indonesia that have been very popular in dealing
 with high delinquency rates. From 2008 to 2020, provincial amnesties occurred every 2.5 years on
 average. Using the variation in the timing of the province’s amnesty adoptions, I estimate the effect
 of vehicle tax amnesty on vehicle tax revenue using difference-in-differences. The short-run increase
