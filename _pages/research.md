@@ -29,7 +29,9 @@ populist policies to win favor and votes. If that is the case, the widespread ad
 amnesty will likely remain a common practice.
 
 **Presentation**: Association for Budgeting and Financial Management (ABFM) Fall 2023 Conference and National Tax Association (NTA) 116th Annual Conference on Taxation 2023, both in Denver Colorado.
-
+<br>
+<br>
+<br>
 
 #### **Works in Progress**:
 
