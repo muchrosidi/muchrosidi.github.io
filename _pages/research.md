@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /research/
-title: Research
+title: research
 description: Welcome to my teaching portfolio! This page showcases my research projects.
 nav: true
 nav_order: 3
