@@ -28,7 +28,7 @@ populist policies to win favor and votes. If that is the case, the widespread ad
 amnesty will likely remain a common practice.
 
 
-## Works in Progress:
-### Corruption and the Composition of Government Expenditure: Evidence from An Anticorruption Measure in Indonesia
+### Works in Progress:
+#### Corruption and the Composition of Government Expenditure: Evidence from An Anticorruption Measure in Indonesia
 
-### Fiscal Interactions in the Short and Long Run: Evidence from Indonesia’s Property Tax Decentralization
+#### Fiscal Interactions in the Short and Long Run: Evidence from Indonesia’s Property Tax Decentralization
