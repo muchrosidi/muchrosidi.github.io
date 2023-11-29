@@ -20,7 +20,6 @@ The course material encompassed four key segments: canonical DID, DID with varia
 Here is the link to access the [lecture slides](/assets/pdf/Intro_diddifferenttiming_rosidi_20231126_edit.pdf), accompanying [data](/assets/pdf/Divorce-Wolfers-AER_ui.dta), and the [do file](/assets/pdf/replication_ui_20231126.do) used during the session.
 
 <br>
-<br>
 
 #### Government Revenue (*Praktikum Pelaksanaan Pendapatan Negara*)
 
@@ -31,7 +30,6 @@ Here is the link to access the [lecture slides](/assets/pdf/Intro_diddifferentti
 - Student evaluation ([link to the file](/assets/pdf/evaluasi_rosidi.pdf)): 9.09/10
 - Received the highest student evaluation among four instructors teaching the course
 
-<br>
 <br>
 
 #### Introduction to Economics (*Pengantar Ilmu Ekonomi*)
