@@ -11,9 +11,9 @@ nav_order: 4
 
 #### Introduction to Difference-in-Differences with Variation in Treatment Timing
 
-[Universitas Indonesia](https://accounting.feb.ui.ac.id/), Fall 2023
+[Universitas Indonesia](https://accounting.feb.ui.ac.id/), November 27, 2023
 
-In Fall 2023, I was invited as a guest lecturer for a PhD-level research methods course at the Department of Accounting, Faculty of Economics and Business, Universitas Indonesia where I conducted a session on Introduction to Difference-in-Differences with Variation in Treatment Timing. 
+On November 27, 2023 (Fall 2023), I was invited as a guest lecturer for a PhD-level research methods course at the Department of Accounting, Faculty of Economics and Business, Universitas Indonesia where I conducted a session on Introduction to Difference-in-Differences with Variation in Treatment Timing. 
 
 The course material encompassed four key segments: canonical DID, DID with variations in treatment timing, recent developments in DID considering treatment timing variations, and a practical STATA simulation. During the STATA simulation, participants were guided through the estimation process utilizing three distinct estimators: two-way fixed effects, [Callaway and Sant’Anna (2021)](https://www.sciencedirect.com/science/article/abs/pii/S0304407620303948), and [de Chaisemartin & D’Haultfoeuille (2022)](https://www.nber.org/papers/w29873). The simulation session aimed to replicate a DID estimators comparison presented in [de Chaisemartin & D’Haultfoeuille (2023)](https://academic.oup.com/ectj/article-abstract/26/3/C1/6604378).
 
